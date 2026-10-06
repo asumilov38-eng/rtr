@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ритм",
+      "hasCanvas": false,
+      "bodyTextLen": 332,
+      "bodyTextHash": "581e7d061b49f100480c81fee096522dd8dbd8a50342d9b7c00ac605ad271f63",
+      "bodyTextPrefix": "Ритм трекер привычек Сегодня Неделя Месяц Сводка Привычка ДОБРОЕ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ритм",
+      "hasCanvas": false,
+      "bodyTextLen": 300,
+      "bodyTextHash": "b0ef95b516b1db248c5e4c46adf7d0ce3f3f0f554a65d0de1e4c170f45c4b533",
+      "bodyTextPrefix": "Ритм ДОБРОЕ УТРО Понедельник 5 октября Сегодня 1 из 4 Ритм важне",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
